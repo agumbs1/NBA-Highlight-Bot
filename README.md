@@ -1,5 +1,6 @@
 # Nba Highlight Bot
 Selenium/HTTP Request based NBA highlight compiler and editor made with Ruby
+https://twitter.com/THIRTYPIECE
 
 - uses HTTP requests to compile a list of all players in the NBA who scored 30 or more points that day from nba.com 
 - for each player:
